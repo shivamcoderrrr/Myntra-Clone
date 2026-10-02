@@ -2,12 +2,6 @@
 
 A frontend clone of Myntra's desktop homepage built with **HTML, CSS, and JavaScript**.
 
-## Screenshot
-
-> Save your final project screenshot at `assets/project-screenshot.png` to render below on GitHub.
-
-![Myntra Clone Screenshot](assets/project-screenshot.png)
-
 ## Features
 
 - Desktop-first UI inspired by Myntra's homepage
@@ -24,8 +18,6 @@ A frontend clone of Myntra's desktop homepage built with **HTML, CSS, and JavaSc
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- Font Awesome (icons)
-- Google Fonts
 
 ## Project Structure
 
@@ -47,13 +39,6 @@ Myntra/
 2. Open the project folder.
 3. Run `index.html` in your browser.
 
-## Future Improvements
-
-- Add full product listing page with filters/sort
-- Implement search suggestions and recent search history
-- Add wishlist and bag persistence using localStorage
-- Improve accessibility (keyboard navigation + ARIA)
-- Optimize image loading and performance
 
 ## Author
 
